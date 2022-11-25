@@ -1,0 +1,3 @@
+defaults:
+  - hydra: jobname_outputdir_format
+  - _self_
